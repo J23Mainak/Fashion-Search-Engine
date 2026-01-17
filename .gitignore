@@ -1,5 +1,4 @@
 .env
 .venv/
 __pycache__/
-data/images/
 data/indices/metadata.pkl
