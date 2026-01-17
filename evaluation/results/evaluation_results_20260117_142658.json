@@ -1,0 +1,1091 @@
+{
+  "timestamp": "20260117_142658",
+  "num_queries": 5,
+  "results": [
+    {
+      "query_id": 1,
+      "query_type": "Attribute Specific",
+      "query_text": "A person in a bright yellow raincoat",
+      "top_10_results": [
+        {
+          "rank": 1,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\9be97731b91f50cb1fabfa8d6d1bf441.jpg",
+          "score": 0.48144665360450745,
+          "metadata": {
+            "scene": "outdoor",
+            "style_scores": {
+              "casual": 0.09541068971157074,
+              "formal": 0.08938499540090561,
+              "business": 0.10045564919710159,
+              "street": 0.11461208760738373,
+              "sporty": 0.09585409611463547,
+              "elegant": 0.07878483831882477,
+              "vintage": 0.09563816338777542,
+              "bohemian": 0.10776060819625854,
+              "minimalist": 0.10763881355524063,
+              "trendy": 0.11446008086204529
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 2,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\164eabcec362011d921a960e691e182a.jpg",
+          "score": 0.481266051530838,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.09624562412500381,
+              "formal": 0.1136259213089943,
+              "business": 0.09661407768726349,
+              "street": 0.08563161641359329,
+              "sporty": 0.09916314482688904,
+              "elegant": 0.1247466579079628,
+              "vintage": 0.10712111741304398,
+              "bohemian": 0.08960286527872086,
+              "minimalist": 0.08721865713596344,
+              "trendy": 0.1000303104519844
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 3,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\7a65f8ca901b6307715350452dff10b6.jpg",
+          "score": 0.44608089327812195,
+          "metadata": {
+            "scene": "outdoor",
+            "style_scores": {
+              "casual": 0.11490488797426224,
+              "formal": 0.08820721507072449,
+              "business": 0.10376665741205215,
+              "street": 0.11222199350595474,
+              "sporty": 0.10808049142360687,
+              "elegant": 0.0897313728928566,
+              "vintage": 0.08748914301395416,
+              "bohemian": 0.1153559461236,
+              "minimalist": 0.09262297302484512,
+              "trendy": 0.08761931210756302
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 4,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\c727d3096d448818302663fda2fedb2c.jpg",
+          "score": 0.44603392481803894,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.11442647129297256,
+              "formal": 0.09202028065919876,
+              "business": 0.12188628315925598,
+              "street": 0.11487841606140137,
+              "sporty": 0.10421966016292572,
+              "elegant": 0.09833814948797226,
+              "vintage": 0.09853625297546387,
+              "bohemian": 0.0891452506184578,
+              "minimalist": 0.08775056898593903,
+              "trendy": 0.0787985622882843
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 5,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\f94b32bdf3d268fcf4b5a830183d7b3a.jpg",
+          "score": 0.4459973871707916,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.09210358560085297,
+              "formal": 0.09317531436681747,
+              "business": 0.0913151353597641,
+              "street": 0.09738153219223022,
+              "sporty": 0.0864299014210701,
+              "elegant": 0.10000462085008621,
+              "vintage": 0.10216838866472244,
+              "bohemian": 0.10298103839159012,
+              "minimalist": 0.1302829384803772,
+              "trendy": 0.1041574776172638
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 6,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\51f3d59a03c79e14e72ea8da915a5346.jpg",
+          "score": 0.4459885060787201,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.11980634182691574,
+              "formal": 0.1018693819642067,
+              "business": 0.10285790264606476,
+              "street": 0.10108260810375214,
+              "sporty": 0.08376394212245941,
+              "elegant": 0.08989682793617249,
+              "vintage": 0.12265880405902863,
+              "bohemian": 0.08344282954931259,
+              "minimalist": 0.10787246376276016,
+              "trendy": 0.08674892038106918
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 7,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\a6507cc61e40a08435a5a210450a47c1.jpg",
+          "score": 0.4459734857082367,
+          "metadata": {
+            "scene": "street",
+            "style_scores": {
+              "casual": 0.07387642562389374,
+              "formal": 0.08245258778333664,
+              "business": 0.11467771232128143,
+              "street": 0.11078695207834244,
+              "sporty": 0.09512688219547272,
+              "elegant": 0.1063728779554367,
+              "vintage": 0.1130397841334343,
+              "bohemian": 0.08373000472784042,
+              "minimalist": 0.10507460683584213,
+              "trendy": 0.11486217379570007
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 8,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\2cb78f57e5a856474f48fa3b581766aa.jpg",
+          "score": 0.4459671974182129,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.10278330743312836,
+              "formal": 0.10268588364124298,
+              "business": 0.09726632386445999,
+              "street": 0.11709677428007126,
+              "sporty": 0.08431895077228546,
+              "elegant": 0.09799157083034515,
+              "vintage": 0.08474644273519516,
+              "bohemian": 0.11237938702106476,
+              "minimalist": 0.09317109733819962,
+              "trendy": 0.10756021738052368
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 9,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\c337347e1e47b1f053ca2d37cce1f378.jpg",
+          "score": 0.44590163230895996,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.11807172745466232,
+              "formal": 0.0895284041762352,
+              "business": 0.11687301099300385,
+              "street": 0.0918160006403923,
+              "sporty": 0.10956777632236481,
+              "elegant": 0.08788476884365082,
+              "vintage": 0.08591536432504654,
+              "bohemian": 0.10806690901517868,
+              "minimalist": 0.08683516830205917,
+              "trendy": 0.10544081032276154
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 10,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\01cb7fbd4a2d2c5b9aebfcd3c25c74e9.jpg",
+          "score": 0.4458608329296112,
+          "metadata": {
+            "scene": "street",
+            "style_scores": {
+              "casual": 0.08630438894033432,
+              "formal": 0.08996491879224777,
+              "business": 0.08642860502004623,
+              "street": 0.11999199539422989,
+              "sporty": 0.11710675060749054,
+              "elegant": 0.11640138924121857,
+              "vintage": 0.08141988515853882,
+              "bohemian": 0.10113333910703659,
+              "minimalist": 0.10604403167963028,
+              "trendy": 0.0952046811580658
+            },
+            "num_items": 1
+          }
+        }
+      ]
+    },
+    {
+      "query_id": 2,
+      "query_type": "Contextual/Place",
+      "query_text": "Professional business attire inside a modern office",
+      "top_10_results": [
+        {
+          "rank": 1,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\2a7c1a61e94d09026f97f8da63ffcdb5.jpg",
+          "score": 0.4331856071949005,
+          "metadata": {
+            "scene": "outdoor",
+            "style_scores": {
+              "casual": 0.10950709134340286,
+              "formal": 0.13544559478759766,
+              "business": 0.09838259965181351,
+              "street": 0.1051110252737999,
+              "sporty": 0.09799259155988693,
+              "elegant": 0.08902544528245926,
+              "vintage": 0.07323700934648514,
+              "bohemian": 0.09856399893760681,
+              "minimalist": 0.11550154536962509,
+              "trendy": 0.07723310589790344
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 2,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\d0cd68ece3aa076ba4f3855d99b96767.jpg",
+          "score": 0.4331033527851105,
+          "metadata": {
+            "scene": "street",
+            "style_scores": {
+              "casual": 0.10725054144859314,
+              "formal": 0.11219020187854767,
+              "business": 0.13131114840507507,
+              "street": 0.09970805794000626,
+              "sporty": 0.0759241059422493,
+              "elegant": 0.10642532259225845,
+              "vintage": 0.07826458662748337,
+              "bohemian": 0.1000470444560051,
+              "minimalist": 0.0880863219499588,
+              "trendy": 0.100792795419693
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 3,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\4f7fefd0c03de78fb289b74e553b6f26.jpg",
+          "score": 0.43302688002586365,
+          "metadata": {
+            "scene": "outdoor",
+            "style_scores": {
+              "casual": 0.09560447931289673,
+              "formal": 0.10038214176893234,
+              "business": 0.11150858551263809,
+              "street": 0.08981247991323471,
+              "sporty": 0.0842771977186203,
+              "elegant": 0.11345639824867249,
+              "vintage": 0.11682787537574768,
+              "bohemian": 0.10034699738025665,
+              "minimalist": 0.09199933707714081,
+              "trendy": 0.09578447788953781
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 4,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\8d246107cf4c81dad01bc57c980dcb11.jpg",
+          "score": 0.43296605348587036,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.11067865043878555,
+              "formal": 0.09940280020236969,
+              "business": 0.09931708872318268,
+              "street": 0.09847891330718994,
+              "sporty": 0.10127096623182297,
+              "elegant": 0.09837819635868073,
+              "vintage": 0.08321340382099152,
+              "bohemian": 0.09580907970666885,
+              "minimalist": 0.12613043189048767,
+              "trendy": 0.08732043206691742
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 5,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\39bca2df1d1c90524c5d3ac209b6b32f.jpg",
+          "score": 0.4328565001487732,
+          "metadata": {
+            "scene": "outdoor",
+            "style_scores": {
+              "casual": 0.08032841980457306,
+              "formal": 0.10819286108016968,
+              "business": 0.08415140956640244,
+              "street": 0.10074728727340698,
+              "sporty": 0.10154182463884354,
+              "elegant": 0.1108904555439949,
+              "vintage": 0.09051012247800827,
+              "bohemian": 0.10423538088798523,
+              "minimalist": 0.09879234433174133,
+              "trendy": 0.12060996145009995
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 6,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\abe53c8a47ddead61bd294de8c38982d.jpg",
+          "score": 0.4328400492668152,
+          "metadata": {
+            "scene": "outdoor",
+            "style_scores": {
+              "casual": 0.1039774939417839,
+              "formal": 0.11287885904312134,
+              "business": 0.10153499990701675,
+              "street": 0.1009177565574646,
+              "sporty": 0.086580790579319,
+              "elegant": 0.09097606688737869,
+              "vintage": 0.10026873648166656,
+              "bohemian": 0.1008695662021637,
+              "minimalist": 0.10497350245714188,
+              "trendy": 0.09702221304178238
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 7,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\7c6039880fa07ba78961b60c0a2f2ac7.jpg",
+          "score": 0.43276360630989075,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.09260997921228409,
+              "formal": 0.10004716366529465,
+              "business": 0.08611375093460083,
+              "street": 0.08895809948444366,
+              "sporty": 0.11246604472398758,
+              "elegant": 0.11359007656574249,
+              "vintage": 0.08522599190473557,
+              "bohemian": 0.13478101789951324,
+              "minimalist": 0.08183327317237854,
+              "trendy": 0.10437464714050293
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 8,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\5a26b076ff580f5b9979ec8371483494.jpg",
+          "score": 0.4326981008052826,
+          "metadata": {
+            "scene": "outdoor",
+            "style_scores": {
+              "casual": 0.08291520178318024,
+              "formal": 0.09999887645244598,
+              "business": 0.10043179988861084,
+              "street": 0.09836100041866302,
+              "sporty": 0.11088603734970093,
+              "elegant": 0.09612476080656052,
+              "vintage": 0.12137117981910706,
+              "bohemian": 0.0977153331041336,
+              "minimalist": 0.09832123667001724,
+              "trendy": 0.09387457370758057
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 9,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\25d4e40003f6739349121db096771d58.jpg",
+          "score": 0.4326595664024353,
+          "metadata": {
+            "scene": "outdoor",
+            "style_scores": {
+              "casual": 0.09261202812194824,
+              "formal": 0.10274814069271088,
+              "business": 0.11263514310121536,
+              "street": 0.07959591597318649,
+              "sporty": 0.09244491904973984,
+              "elegant": 0.1302098035812378,
+              "vintage": 0.09321581572294235,
+              "bohemian": 0.10163695365190506,
+              "minimalist": 0.08037184923887253,
+              "trendy": 0.11452936381101608
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 10,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\c5a8fb9fb3469d9baee2f555d1fb779d.jpg",
+          "score": 0.43264490365982056,
+          "metadata": {
+            "scene": "outdoor",
+            "style_scores": {
+              "casual": 0.10330191999673843,
+              "formal": 0.1059008315205574,
+              "business": 0.09477444738149643,
+              "street": 0.09070999175310135,
+              "sporty": 0.08565399050712585,
+              "elegant": 0.09676605463027954,
+              "vintage": 0.10699965804815292,
+              "bohemian": 0.1151726245880127,
+              "minimalist": 0.0842263400554657,
+              "trendy": 0.1164940893650055
+            },
+            "num_items": 1
+          }
+        }
+      ]
+    },
+    {
+      "query_id": 3,
+      "query_type": "Complex Semantic",
+      "query_text": "Someone wearing a blue shirt sitting on a park bench",
+      "top_10_results": [
+        {
+          "rank": 1,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\9069b028b06d0664f91e70ee4114e447.jpg",
+          "score": 0.48691949248313904,
+          "metadata": {
+            "scene": "outdoor",
+            "style_scores": {
+              "casual": 0.1260160207748413,
+              "formal": 0.10188288986682892,
+              "business": 0.08588872849941254,
+              "street": 0.09745553135871887,
+              "sporty": 0.09934130311012268,
+              "elegant": 0.1147327572107315,
+              "vintage": 0.09454885870218277,
+              "bohemian": 0.09059193730354309,
+              "minimalist": 0.09527716040611267,
+              "trendy": 0.09426482766866684
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 2,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\136ac2a820e9718e52835f815428be82.jpg",
+          "score": 0.474806547164917,
+          "metadata": {
+            "scene": "street",
+            "style_scores": {
+              "casual": 0.09568125754594803,
+              "formal": 0.09118278324604034,
+              "business": 0.097331702709198,
+              "street": 0.11426279693841934,
+              "sporty": 0.09881310164928436,
+              "elegant": 0.10291485488414764,
+              "vintage": 0.11645638942718506,
+              "bohemian": 0.09410052746534348,
+              "minimalist": 0.09185768663883209,
+              "trendy": 0.09739886969327927
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 3,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\d0cd68ece3aa076ba4f3855d99b96767.jpg",
+          "score": 0.4393755793571472,
+          "metadata": {
+            "scene": "street",
+            "style_scores": {
+              "casual": 0.10725054144859314,
+              "formal": 0.11219020187854767,
+              "business": 0.13131114840507507,
+              "street": 0.09970805794000626,
+              "sporty": 0.0759241059422493,
+              "elegant": 0.10642532259225845,
+              "vintage": 0.07826458662748337,
+              "bohemian": 0.1000470444560051,
+              "minimalist": 0.0880863219499588,
+              "trendy": 0.100792795419693
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 4,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\1ca6fb4b937bb1f34797d3315266a546.jpg",
+          "score": 0.43928155303001404,
+          "metadata": {
+            "scene": "street",
+            "style_scores": {
+              "casual": 0.09394367784261703,
+              "formal": 0.09712176769971848,
+              "business": 0.11031588166952133,
+              "street": 0.09799358993768692,
+              "sporty": 0.08994131535291672,
+              "elegant": 0.11099884659051895,
+              "vintage": 0.09043969213962555,
+              "bohemian": 0.099705271422863,
+              "minimalist": 0.10823379456996918,
+              "trendy": 0.10130620747804642
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 5,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\742ca0ded538281bfd2d1f3ea331773e.jpg",
+          "score": 0.43925198912620544,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.09215482324361801,
+              "formal": 0.08052734285593033,
+              "business": 0.1036796122789383,
+              "street": 0.10185921937227249,
+              "sporty": 0.09764635562896729,
+              "elegant": 0.10225746780633926,
+              "vintage": 0.12861472368240356,
+              "bohemian": 0.08920956403017044,
+              "minimalist": 0.09674493223428726,
+              "trendy": 0.10730598121881485
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 6,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\7c308e574cd02b760e699f48ad7628b9.jpg",
+          "score": 0.4391753375530243,
+          "metadata": {
+            "scene": "street",
+            "style_scores": {
+              "casual": 0.09520251303911209,
+              "formal": 0.11244182288646698,
+              "business": 0.11067483574151993,
+              "street": 0.09988299757242203,
+              "sporty": 0.10318665951490402,
+              "elegant": 0.11120948195457458,
+              "vintage": 0.09376795589923859,
+              "bohemian": 0.09196210652589798,
+              "minimalist": 0.08718176186084747,
+              "trendy": 0.09448987245559692
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 7,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\01a64310ea9205193295869fcae93f90.jpg",
+          "score": 0.43913161754608154,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.10085928440093994,
+              "formal": 0.09295707941055298,
+              "business": 0.09161273390054703,
+              "street": 0.092321015894413,
+              "sporty": 0.10801813006401062,
+              "elegant": 0.11143103986978531,
+              "vintage": 0.10011698305606842,
+              "bohemian": 0.1084294319152832,
+              "minimalist": 0.09698059409856796,
+              "trendy": 0.09727369993925095
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 8,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\f678117f6e91501c86eb0194d2f81c9e.jpg",
+          "score": 0.43905073404312134,
+          "metadata": {
+            "scene": "street",
+            "style_scores": {
+              "casual": 0.10046066343784332,
+              "formal": 0.0823921337723732,
+              "business": 0.10299205034971237,
+              "street": 0.09700731188058853,
+              "sporty": 0.09576738625764847,
+              "elegant": 0.09100441634654999,
+              "vintage": 0.11071515083312988,
+              "bohemian": 0.11051712185144424,
+              "minimalist": 0.115035779774189,
+              "trendy": 0.09410800039768219
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 9,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\1d8a81f9cf6f5f3e66f65293408399ed.jpg",
+          "score": 0.4328382909297943,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.11309235543012619,
+              "formal": 0.0920494943857193,
+              "business": 0.09418836236000061,
+              "street": 0.10047432780265808,
+              "sporty": 0.1028875932097435,
+              "elegant": 0.09662004560232162,
+              "vintage": 0.09679188579320908,
+              "bohemian": 0.11148326843976974,
+              "minimalist": 0.10588482767343521,
+              "trendy": 0.08652781695127487
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 10,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\c51180190703b53eb4175a3ccd80e879.jpg",
+          "score": 0.4325859844684601,
+          "metadata": {
+            "scene": "street",
+            "style_scores": {
+              "casual": 0.10175836086273193,
+              "formal": 0.10052499175071716,
+              "business": 0.12369472533464432,
+              "street": 0.09756314754486084,
+              "sporty": 0.0878409668803215,
+              "elegant": 0.13834790885448456,
+              "vintage": 0.08584274351596832,
+              "bohemian": 0.09324007481336594,
+              "minimalist": 0.09861187636852264,
+              "trendy": 0.0725751593708992
+            },
+            "num_items": 1
+          }
+        }
+      ]
+    },
+    {
+      "query_id": 4,
+      "query_type": "Style Inference",
+      "query_text": "Casual weekend outfit for a city walk",
+      "top_10_results": [
+        {
+          "rank": 1,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\eb5ceb63957f551f3486aad45ed0f310.jpg",
+          "score": 0.4683511555194855,
+          "metadata": {
+            "scene": "outdoor",
+            "style_scores": {
+              "casual": 0.10192397236824036,
+              "formal": 0.09568119049072266,
+              "business": 0.11131763458251953,
+              "street": 0.09121157228946686,
+              "sporty": 0.1181458905339241,
+              "elegant": 0.09884931147098541,
+              "vintage": 0.08188126236200333,
+              "bohemian": 0.09818525612354279,
+              "minimalist": 0.09281840175390244,
+              "trendy": 0.10998549312353134
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 2,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\e663c620064af6f5809ee9fef9df4452.jpg",
+          "score": 0.4380049407482147,
+          "metadata": {
+            "scene": "street",
+            "style_scores": {
+              "casual": 0.10080988705158234,
+              "formal": 0.0929165929555893,
+              "business": 0.09929324686527252,
+              "street": 0.09679140150547028,
+              "sporty": 0.12888237833976746,
+              "elegant": 0.11437888443470001,
+              "vintage": 0.09680237621068954,
+              "bohemian": 0.091120645403862,
+              "minimalist": 0.08660375326871872,
+              "trendy": 0.09240078926086426
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 3,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\c8bcd6013cb4e11b314b80c3819d6bbf.jpg",
+          "score": 0.4375452399253845,
+          "metadata": {
+            "scene": "street",
+            "style_scores": {
+              "casual": 0.08791662752628326,
+              "formal": 0.12389398366212845,
+              "business": 0.08242644369602203,
+              "street": 0.10662245005369186,
+              "sporty": 0.0966782420873642,
+              "elegant": 0.09153332561254501,
+              "vintage": 0.10087075084447861,
+              "bohemian": 0.08992451429367065,
+              "minimalist": 0.10768933594226837,
+              "trendy": 0.11244422197341919
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 4,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\42db842677019ef681438d5bd843760a.jpg",
+          "score": 0.43261978030204773,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.10967917740345001,
+              "formal": 0.08621516823768616,
+              "business": 0.1018269807100296,
+              "street": 0.10291266441345215,
+              "sporty": 0.11664076894521713,
+              "elegant": 0.08222955465316772,
+              "vintage": 0.09666181355714798,
+              "bohemian": 0.0850403904914856,
+              "minimalist": 0.100249744951725,
+              "trendy": 0.11854362487792969
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 5,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\7438a2c6ee6d6ad3fde0345b4d5b15df.jpg",
+          "score": 0.432594358921051,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.10767530649900436,
+              "formal": 0.10346212238073349,
+              "business": 0.11892615258693695,
+              "street": 0.09890100359916687,
+              "sporty": 0.07269357144832611,
+              "elegant": 0.12078654021024704,
+              "vintage": 0.0960187017917633,
+              "bohemian": 0.09830845892429352,
+              "minimalist": 0.09052855521440506,
+              "trendy": 0.09269954264163971
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 6,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\54667303234c3838b0f56b36c3adf084.jpg",
+          "score": 0.43248090147972107,
+          "metadata": {
+            "scene": "outdoor",
+            "style_scores": {
+              "casual": 0.10500503331422806,
+              "formal": 0.11959630250930786,
+              "business": 0.09006757289171219,
+              "street": 0.08182937651872635,
+              "sporty": 0.09191249310970306,
+              "elegant": 0.11714380979537964,
+              "vintage": 0.10965140908956528,
+              "bohemian": 0.09263511747121811,
+              "minimalist": 0.09377128630876541,
+              "trendy": 0.09838761389255524
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 7,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\3a7a87b0596e88cca11916a7bc59c50c.jpg",
+          "score": 0.43234241008758545,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.1002320945262909,
+              "formal": 0.09608045220375061,
+              "business": 0.09497053176164627,
+              "street": 0.10878924280405045,
+              "sporty": 0.11595864593982697,
+              "elegant": 0.0916292667388916,
+              "vintage": 0.07918605208396912,
+              "bohemian": 0.12054328620433807,
+              "minimalist": 0.11093870550394058,
+              "trendy": 0.08167176693677902
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 8,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\da916438984e67a08912b38fbc2e3e91.jpg",
+          "score": 0.41994282603263855,
+          "metadata": {
+            "scene": "street",
+            "style_scores": {
+              "casual": 0.09281700849533081,
+              "formal": 0.09192079305648804,
+              "business": 0.07716777175664902,
+              "street": 0.11622221767902374,
+              "sporty": 0.0961623266339302,
+              "elegant": 0.10344243794679642,
+              "vintage": 0.08646242320537567,
+              "bohemian": 0.11012852936983109,
+              "minimalist": 0.11263466626405716,
+              "trendy": 0.11304184049367905
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 9,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\32e566cd7c0388f44f1a09e10e2ac96c.jpg",
+          "score": 0.41993212699890137,
+          "metadata": {
+            "scene": "street",
+            "style_scores": {
+              "casual": 0.0974302589893341,
+              "formal": 0.10010159760713577,
+              "business": 0.10198916494846344,
+              "street": 0.101935975253582,
+              "sporty": 0.1070931926369667,
+              "elegant": 0.11495427787303925,
+              "vintage": 0.10141580551862717,
+              "bohemian": 0.09049122035503387,
+              "minimalist": 0.10091573745012283,
+              "trendy": 0.08367273211479187
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 10,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\e79cbeb8c91f36075cc7ef6df31a093d.jpg",
+          "score": 0.41984617710113525,
+          "metadata": {
+            "scene": "street",
+            "style_scores": {
+              "casual": 0.10461291670799255,
+              "formal": 0.09642104059457779,
+              "business": 0.11033440381288528,
+              "street": 0.09573265165090561,
+              "sporty": 0.10977230221033096,
+              "elegant": 0.0816299244761467,
+              "vintage": 0.09508483856916428,
+              "bohemian": 0.10695281624794006,
+              "minimalist": 0.08432290703058243,
+              "trendy": 0.11513623595237732
+            },
+            "num_items": 1
+          }
+        }
+      ]
+    },
+    {
+      "query_id": 5,
+      "query_type": "Compositional",
+      "query_text": "A red tie and a white shirt in a formal setting",
+      "top_10_results": [
+        {
+          "rank": 1,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\8caa8a19eefb55e5396adcc445a5e99d.jpg",
+          "score": 0.4620301425457001,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.10170550644397736,
+              "formal": 0.09660425037145615,
+              "business": 0.09733361005783081,
+              "street": 0.0975705236196518,
+              "sporty": 0.09867867082357407,
+              "elegant": 0.11879996210336685,
+              "vintage": 0.08806948363780975,
+              "bohemian": 0.09895314276218414,
+              "minimalist": 0.08740134537220001,
+              "trendy": 0.1148834079504013
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 2,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\e54052246cc90c8deb82226757a074f9.jpg",
+          "score": 0.4571937918663025,
+          "metadata": {
+            "scene": "outdoor",
+            "style_scores": {
+              "casual": 0.09576612710952759,
+              "formal": 0.10008398443460464,
+              "business": 0.1054316982626915,
+              "street": 0.11382065713405609,
+              "sporty": 0.09973621368408203,
+              "elegant": 0.08558833599090576,
+              "vintage": 0.10673659294843674,
+              "bohemian": 0.0974869355559349,
+              "minimalist": 0.10601017624139786,
+              "trendy": 0.08933927118778229
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 3,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\0146a53e12d690914995248fb6872121.jpg",
+          "score": 0.4258560240268707,
+          "metadata": {
+            "scene": "street",
+            "style_scores": {
+              "casual": 0.0991140827536583,
+              "formal": 0.09324567764997482,
+              "business": 0.10734295099973679,
+              "street": 0.09525076299905777,
+              "sporty": 0.09247084707021713,
+              "elegant": 0.07289018481969833,
+              "vintage": 0.11985424906015396,
+              "bohemian": 0.08681146800518036,
+              "minimalist": 0.10973852872848511,
+              "trendy": 0.12328118085861206
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 4,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\d645aff25ed677a452471a9473eefd6f.jpg",
+          "score": 0.42216211557388306,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.07703510671854019,
+              "formal": 0.1269351691007614,
+              "business": 0.09511515498161316,
+              "street": 0.10973109304904938,
+              "sporty": 0.12320977449417114,
+              "elegant": 0.08713211119174957,
+              "vintage": 0.08480407297611237,
+              "bohemian": 0.09432580322027206,
+              "minimalist": 0.11357901245355606,
+              "trendy": 0.08813273161649704
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 5,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\d456b51deebc83e01cfef985d05e063e.jpg",
+          "score": 0.4218868613243103,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.11479900032281876,
+              "formal": 0.1096096932888031,
+              "business": 0.09291963279247284,
+              "street": 0.09373985975980759,
+              "sporty": 0.09622904658317566,
+              "elegant": 0.08450166881084442,
+              "vintage": 0.10876593738794327,
+              "bohemian": 0.08195693790912628,
+              "minimalist": 0.1064993292093277,
+              "trendy": 0.11097890138626099
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 6,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\e5d4cc1c18f1bb7523650a5e9e536c2a.jpg",
+          "score": 0.4216679632663727,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.10116204619407654,
+              "formal": 0.09244845062494278,
+              "business": 0.10428758710622787,
+              "street": 0.1132342591881752,
+              "sporty": 0.09386932104825974,
+              "elegant": 0.10969961434602737,
+              "vintage": 0.09914000332355499,
+              "bohemian": 0.09135916829109192,
+              "minimalist": 0.08022187650203705,
+              "trendy": 0.11457765847444534
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 7,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\dd956375d1214a4d15bd780076711e7a.jpg",
+          "score": 0.4215749204158783,
+          "metadata": {
+            "scene": "outdoor",
+            "style_scores": {
+              "casual": 0.11803429573774338,
+              "formal": 0.08762937784194946,
+              "business": 0.09521329402923584,
+              "street": 0.09161173552274704,
+              "sporty": 0.11040564626455307,
+              "elegant": 0.1271274834871292,
+              "vintage": 0.09583618491888046,
+              "bohemian": 0.08943035453557968,
+              "minimalist": 0.09078611433506012,
+              "trendy": 0.09392549097537994
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 8,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\bf323c62fb410d71fd36249e30dd15fb.jpg",
+          "score": 0.42146652936935425,
+          "metadata": {
+            "scene": "outdoor",
+            "style_scores": {
+              "casual": 0.09305964410305023,
+              "formal": 0.11362748593091965,
+              "business": 0.09160736948251724,
+              "street": 0.09832993894815445,
+              "sporty": 0.10114271938800812,
+              "elegant": 0.09468819946050644,
+              "vintage": 0.09166773408651352,
+              "bohemian": 0.11608047783374786,
+              "minimalist": 0.10383003205060959,
+              "trendy": 0.09596645832061768
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 9,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\dff73ac167949e060d7b485ba65ceda7.jpg",
+          "score": 0.4214085638523102,
+          "metadata": {
+            "scene": "street",
+            "style_scores": {
+              "casual": 0.0934862419962883,
+              "formal": 0.08903273940086365,
+              "business": 0.0999998077750206,
+              "street": 0.08762457966804504,
+              "sporty": 0.12269561737775803,
+              "elegant": 0.13772688806056976,
+              "vintage": 0.09579213708639145,
+              "bohemian": 0.08082026243209839,
+              "minimalist": 0.10978402942419052,
+              "trendy": 0.08303775638341904
+            },
+            "num_items": 1
+          }
+        },
+        {
+          "rank": 10,
+          "image_path": "D:\\fashion_retrieval\\data\\images\\9103fb4292a60db77d999f0838c4e562.jpg",
+          "score": 0.4213416576385498,
+          "metadata": {
+            "scene": "indoor",
+            "style_scores": {
+              "casual": 0.09688154608011246,
+              "formal": 0.10263054072856903,
+              "business": 0.09486107528209686,
+              "street": 0.09870751947164536,
+              "sporty": 0.09526718407869339,
+              "elegant": 0.09505559504032135,
+              "vintage": 0.10491082817316055,
+              "bohemian": 0.10684964805841446,
+              "minimalist": 0.09851662814617157,
+              "trendy": 0.10631939023733139
+            },
+            "num_items": 1
+          }
+        }
+      ]
+    }
+  ]
+}

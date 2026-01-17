@@ -1,0 +1,54 @@
+torch
+torchvision
+transformers
+
+# CLIP and Fashion-CLIP
+# git+https://github.com/openai/CLIP.git
+# fashion-clip
+
+opencv-python
+Pillow
+scikit-imag
+# Vector dat
+# faiss-gpu>
+# faiss-cpu>=1.7.4  # Fallback
+
+# Grounding DINO (for object detection)
+# Install: https://github.com/IDEA-Research/GroundingDINO
+# git+https://github.com/IDEA-Research/GroundingDINO.git
+
+# Segment Anything (SAM)
+# Install: https://github.com/facebookresearch/segment-anything
+# git+https://github.com/facebookresearch/segment-anything.git
+
+numpy
+scipy
+pandas
+tqdm
+
+h5py
+
+albumentations
+imgaug
+
+scikit-learn
+matplotlib
+seaborn
+
+fastapi
+uvicorn
+pydantic
+
+wandb  
+tensorboard
+
+jupyter
+ipython
+black
+flake8
+pytest
+
+timm
+einops
+ftfy  
+regex 

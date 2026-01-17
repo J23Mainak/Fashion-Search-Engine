@@ -1,0 +1,12 @@
+{
+  "num_images": 3200,
+  "num_items_detected": 3200,
+  "avg_items_per_image": 1.0,
+  "image_paths_sample": [
+    "D:\\fashion_retrieval\\data\\images\\2898c07ef740e24cb05c068998a9e23d.jpg",
+    "D:\\fashion_retrieval\\data\\images\\7c94f74b4a0fc9be0dc73512da18ddd5.jpg",
+    "D:\\fashion_retrieval\\data\\images\\00a1940434d687a785be0acf2b0fbff3.jpg",
+    "D:\\fashion_retrieval\\data\\images\\e0c0f2e8c0739f4be05015fa22e38c16.jpg",
+    "D:\\fashion_retrieval\\data\\images\\9204165ae18d2e7ea1b12f5bcc62641e.jpg"
+  ]
+}
