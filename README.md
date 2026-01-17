@@ -2,23 +2,21 @@
 
 This system implements a state-of-the-art multi-vector architecture that significantly outperforms vanilla CLIP for fashion-specific queries, especially compositional queries like "red tie with white shirt".
 
----
-
 ## Overview
 
 This retrieval system addresses the exact requirements with a production-ready implementation that:
 
-**Beats vanilla CLIP** by 35-40% on compositional queries  
-**Handles fine-grained attributes** (colors, garments, styles)  
-**Understands context** (office, park, street, home)  
-**Scales to 1M+ images** with FAISS indexing  
-**Zero-shot capable** on unseen queries  
+- **Beats vanilla CLIP** by 35-40% on compositional queries  
+- **Handles fine-grained attributes** (colors, garments, styles)  
+- **Understands context** (office, park, street, home)  
+- **Scales to 1M+ images** with FAISS indexing  
+- **Zero-shot capable** on unseen queries  
 
 ---
 
 ## > Architecture
 
-### **Multi-Vector Indexing Strategy**
+### **1. Multi-Vector Indexing Strategy**
 
 Unlike vanilla CLIP (single global embedding), we extract **multiple specialized embeddings**:
 
@@ -30,7 +28,7 @@ Input Image
     └── Scene Embedding (context understanding) → 2048-D
 ```
 
-### **Two-Stage Retrieval Pipeline**
+### **2. Two-Stage Retrieval Pipeline**
 
 #### **Stage 1: Fast Hybrid Search**
 - Multi-index FAISS search (HNSW for accuracy)
