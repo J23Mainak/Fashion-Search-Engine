@@ -210,11 +210,11 @@ fashion_retrieval/
 ├── evaluation/
 │   └── evaluate.py            # Evaluation scripts
 ├── data/
-│   ├── images/                # Your dataset
+│   ├── images/                # Dataset
 │   ├── indices/               # FAISS indices
 │   └── metadata/              # Extracted metadata
 ├── requirements.txt           # Dependencies
-└── README.md                  # This file
+└── README.md                  
 ```
 
 ---
