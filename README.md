@@ -18,7 +18,7 @@ This retrieval system addresses the exact requirements with a production-ready i
 
 ### **1. Multi-Vector Indexing Strategy**
 
-Unlike vanilla CLIP (single global embedding), we extract **multiple specialized embeddings**:
+Unlike vanilla CLIP (single global embedding), I extract **multiple specialized embeddings**:
 
 ```
 Input Image
